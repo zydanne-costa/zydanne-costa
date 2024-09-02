@@ -1,0 +1,5 @@
+- 👋 Hi, my name is Zydanne
+- 👀 I'm interested in food.
+- 🌱 I'm learning to program.
+- 📫 costazydanne@gmail.com
+- ⚡ A curiosity: I'm curious.
